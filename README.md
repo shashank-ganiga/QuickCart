@@ -17,7 +17,7 @@ Other Libraries/Tools: PostCSS, Jest (for testing)
 Installation
 
 Clone the repository:
-git clone github.com/shashank-ganiga/QuickCart/
+git clone https://github.com/shashank-ganiga/QuickCart/
 
 Navigate to the project directory:
 cd QuickCart
